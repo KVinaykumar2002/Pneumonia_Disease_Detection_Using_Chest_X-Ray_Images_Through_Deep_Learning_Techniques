@@ -16,11 +16,14 @@ Improved predictive performance can be achieved through the utilization of assem
 |-----------------|------------------|-----------------|--------|----------|
 | Proposed Ensembled Model |    98.82%     | 94.51%           | 95.09%| 94.79%          |
 
+<img width="860" alt="Screenshot 2024-07-24 at 11 47 25 PM" src="https://github.com/user-attachments/assets/363e0168-c3ff-46fb-96de-26058688bc4a">
+
+
 ## Confusion Matrix
 
 <img width="626" alt="Screenshot 2024-07-24 at 11 39 38 PM" src="https://github.com/user-attachments/assets/76cad39b-4dd3-4f66-897e-23a1369c166b">
 
-
+## 
 
 
 
