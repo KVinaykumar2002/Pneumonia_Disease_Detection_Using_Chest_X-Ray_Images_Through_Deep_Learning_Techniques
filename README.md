@@ -14,10 +14,9 @@ Improved predictive performance can be achieved through the utilization of assem
 
 | Classifier      | Accuracy         | Precision       | Recall | F1 Score |
 |-----------------|------------------|-----------------|--------|----------|
-| Proposed Ensembled Model |         | 5,000           | NORMAL,|          |
+| Proposed Ensembled Model |    98.82%     | 94.51%           | 95.09%| 94.79%          |
 
 
-## Model Performance
 
 
 
