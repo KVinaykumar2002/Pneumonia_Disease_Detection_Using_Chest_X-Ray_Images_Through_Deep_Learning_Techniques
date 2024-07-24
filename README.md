@@ -12,10 +12,14 @@ Improved predictive performance can be achieved through the utilization of assem
 
 ## Results
 
-| Classifier | Accuracy | Precision | Recall | F1 Score |
+| Dataset      | Number of Images | Class Labels    |
+|--------------|------------------|-----------------|
+| Training Set | 5,000            | NORMAL, PNEUMONIA|
+| Test Set     | 1,000            | NORMAL, PNEUMONIA|
+| Validation Set | 500            | NORMAL, PNEUMONIA|
 
-|------------|----------|-----------|--------|----------|
- 
-| Proposed Ensembled Models |
+## Model Performance
+
+
 
 
