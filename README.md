@@ -12,7 +12,8 @@ Improved predictive performance can be achieved through the utilization of assem
 
 ## Results
 
-|Classifier|Accuracy|Precision|Recall|F1 Score|
-|Proposed Ensembled Models|
+| Classifier | Accuracy | Precision | Recall | F1 Score |
+ 
+| Proposed Ensembled Models |
 
 
