@@ -1,4 +1,4 @@
-# Pneumonia_Disease_Detection_Using_Chest_X-Ray_Images_Through_Deep_Learning_Techniques
+# Predicting_Pneumonia_Disease_Using_Chest_X-Ray_Images_Through_Deep_Learning_Techniques
 
 This repository is a code storage for my Mini Project submission towards department of CSE(AI&ML) @ Vardhaman College of Engineering
 
